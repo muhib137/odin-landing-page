@@ -105,3 +105,23 @@ main section {
   font-size: 14px;
   max-width: 200px;
 }
+
+
+.section--testimonial {
+  background-color: #ccc;
+  padding: 48px 96px;
+}
+
+.quote {
+  font-size: 18px;
+  max-width: 600px;
+  margin: 0 auto;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.author {
+  text-align: right;
+  margin-top: 12px;
+  font-weight: 700;
+}
